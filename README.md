@@ -1,4 +1,4 @@
-if game.PlaceId == 2753915549 then
+hjif game.PlaceId == 2753915549 then
     World1 = true
 elseif game.PlaceId == 4442272183 then
     World2 = true
@@ -11363,7 +11363,7 @@ end)
 OrionLib:Init()
 
 OrionLib:MakeNotification({
-    Name = "Sla Hub",
+    Name = "Ricardo hub quem sua tem xereca",
     Content = "Loading Config Complete!!",
     Image = "rbxassetid://119980140458596",
     Time = 5
